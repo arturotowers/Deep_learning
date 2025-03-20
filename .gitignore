@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Large files
+Proyecto\ 1\ -\ DAE\ +\ VAE/\(2\)_Data/motorcycles-and-clocks.zip
